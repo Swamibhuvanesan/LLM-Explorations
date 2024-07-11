@@ -26,14 +26,13 @@ python -m venv venv
 venv\Scripts\activate
 # On macOS/Linux
 source venv/bin/activate
+```
 
 ### Installing Dependencies
 You can install the necessary dependencies using pip:
-pip install transformers
-pip install torch  # For PyTorch
-# Alternatively, you can use TensorFlow
+```pip install transformers torch pillow```
+# Alternatively, you can use TensorFlow inplace of torch
 # pip install tensorflow
-pip install pillow
 
 ###📸 Screenshot
 Below is a screenshot of the program in action:
@@ -54,4 +53,3 @@ A big thank you to the developers and contributors of the transformers library a
 <p align="center">
   Made with ❤️ by Swaminathan
 </p>
-```
