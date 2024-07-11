@@ -31,14 +31,19 @@ source venv/bin/activate
 ### Installing Dependencies
 You can install the necessary dependencies using pip:
 ```pip install transformers torch pillow```
-# Alternatively, you can use TensorFlow inplace of torch
-# pip install tensorflow
+(Alternatively, you can use TensorFlow inplace of torch)
+``` pip install tensorflow ```
 
 ###📸 Screenshot
 Below is a screenshot of the program in action:
+<div align="center">
+  <img src="resource/ss.png" width="1500" height="500" alt="png">
+</div>
+
 ###📁 Repository Structure
 image_captioner.py: The main script to run the image captioning.
-psp.jpg: Example image used for captioning.
+resource: Folder containing the images and screenshots
+
 ###🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
