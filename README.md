@@ -1,6 +1,6 @@
-# AI-ML-Explorations
+# AI-ML-NLP-LLM Explorations
 
-Welcome to the **AI-ML-Explorations** repository! This space is dedicated to showcasing my journey and projects in the fields of Artificial Intelligence and Machine Learning. Here, you'll find a collection of diverse projects, experiments, and explorations that I have undertaken.
+Welcome to the **LLM-Explorations** repository! This space is dedicated to showcasing my journey and projects in the fields of Artificial Intelligence and Machine Learning. Here, you'll find a collection of diverse projects, experiments, and explorations that I have undertaken.
 
 ## 🧠 About This Repository
 
