@@ -59,6 +59,11 @@ Open your web browser and go to http://localhost:8501 to interact with the Gemin
 Below is a screenshot of the Gemini Bot in action:
 
 
+https://github.com/user-attachments/assets/3154ab81-a2e1-4f3e-bc84-6d9a36df9641
+
+
+
+
 ## 📁 Repository Structure
 bot.py: The main script to run the Gemini Bot.
 screenshot.png: Screenshot of the application (add this file).
@@ -77,4 +82,3 @@ A big thank you to the developers and contributors of the streamlit library and 
 <p align="center">
   Made with ❤️ by Swaminathan
 </p>
-```
