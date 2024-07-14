@@ -4,7 +4,7 @@ import pyttsx3
 import google.generativeai as genai
 
 # Directly assign the API key
-API_KEY = "AIzaSyBVN4FiHyg_6T1bFoZfV8nte1LmyDxBrGo"
+API_KEY = "Your API Key"
 
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('gemini-pro')
