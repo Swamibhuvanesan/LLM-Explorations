@@ -59,5 +59,7 @@ This project is a voice assistant web application built using Streamlit, Google 
 ├── bot.py          # Main script for the Streamlit app
 ├── requirements.txt # List of required Python packages
 └── README.md       # This readme file
-
+```
 ## Screenshot
+![Screenshot 2024-07-14 214240](https://github.com/user-attachments/assets/c7c6eda5-4046-4105-a300-fb3b6a081922)
+
