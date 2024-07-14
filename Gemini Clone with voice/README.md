@@ -1,4 +1,5 @@
-# Voice Assistant with Streamlit
+# Gemini Clone with voice
+
 
 This project is a voice assistant web application built using Streamlit, Google Generative AI, SpeechRecognition, and pyttsx3. It listens to your voice, processes the input, and provides a spoken response. Additionally, it offers an option to pause the narration.
 
