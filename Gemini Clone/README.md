@@ -20,22 +20,22 @@ Ensure you have the following installed:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/gemini-bot.git
+git clone https://github.com/Swamibhuvanesan/LLM-Explorations.git
 ```
 Navigate to the project directory:
 ```
-cd gemini-bot
+cd Gemini Clone
 ```
 Create and activate a virtual environment:
 ```
 # Create a virtual environment
-python -m venv venv
+python -m venv myenv
 
 # Activate the virtual environment
 # On Windows
-venv\Scripts\activate
+myenv\Scripts\activate
 # On macOS/Linux
-source venv/bin/activate
+source myenv/bin/activate
 ```
 Install the required dependencies:
 ```
