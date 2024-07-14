@@ -32,4 +32,4 @@ To get started with any of the projects, follow the instructions provided in the
 Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/Swamibhuvanesan/AI-ML-Explorations.git
+git clone https://github.com/Swamibhuvanesan/AI-ML-Explorations.git](https://github.com/Swamibhuvanesan/LLM-Explorations.git
