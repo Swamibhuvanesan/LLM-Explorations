@@ -37,7 +37,7 @@ You can install the necessary dependencies using pip:
 ### 📸 Screenshot
 Below is a screenshot of the program in action:
 <div align="center">
-  <img src="resource/ss.png" width="1500" height="500" alt="png">
+  <img src="resource/ss.png" width="" height="" alt="png">
 </div>
 
 ### 📁 Repository Structure
