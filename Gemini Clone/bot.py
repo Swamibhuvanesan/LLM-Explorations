@@ -4,7 +4,7 @@ import google.generativeai as genai
 
 st.title("Gemini Bot")
 
-os.environ['GOOGLE_API_KEY'] = "AIzaSyBFDgVkabjQDfz4UZJNjKmvut5bm3GAROQ"
+os.environ['GOOGLE_API_KEY'] = "Your api key"
 genai.configure(api_key = os.environ['GOOGLE_API_KEY'])
 
 # Select the model
